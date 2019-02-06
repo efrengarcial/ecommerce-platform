@@ -144,3 +144,5 @@ Desktop.ini
 .eslintcache
 
 .terraform
+
+google-cred.json
